@@ -12,4 +12,4 @@ def focus_timer(minutes):
     print('Time up!')
 
 # 调用函数设置25分钟的专注时间
-focus_timer(25)
+focus_timer(40)
